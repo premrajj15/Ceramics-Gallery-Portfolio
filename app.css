@@ -90,6 +90,7 @@ a.active{
 @media only screen and (mx-width: 1200px)
 {
     .card{
-        width:100%;
+        width:10%;
+        
     }
 }
