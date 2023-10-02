@@ -46,6 +46,7 @@ a.active{
 .card img{
     height: 500px;
     width: 100%;
+    object-fit: cover;
 }
 .card h2{
     display: inline-block;
@@ -86,3 +87,10 @@ a.active{
 /* upto here about stuff*/
 
 
+@media only screen and (mx-width: 1200px)
+{
+    .card{
+        width:10%;
+        
+    }
+}
