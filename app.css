@@ -87,7 +87,7 @@ a.active{
 /* upto here about stuff*/
 
 
-@media only screen and (mx-width: 810px)
+@media only screen and (max-width: 810px)
 {
     .card{
         width:100%;
