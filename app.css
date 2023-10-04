@@ -91,6 +91,12 @@ a.active{
 {
     .card{
         width:100%;
+        padding: 8px;
+        }
+        .About
+        {
+            margin: 100px auto;
+            min-width: 800px;
+        }
         
-    }
 }
