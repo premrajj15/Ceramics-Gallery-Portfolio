@@ -87,10 +87,10 @@ a.active{
 /* upto here about stuff*/
 
 
-@media only screen and (mx-width: 1200px)
+@media only screen and (mx-width: 1000px)
 {
     .card{
-        width:10%;
+        width:100%;
         
     }
 }
